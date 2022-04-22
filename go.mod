@@ -7,8 +7,8 @@ require (
 	github.com/moul/pb v0.0.0-20180404114147-54bdd96e6a52
 	github.com/rogpeppe/fastuuid v1.1.0 // indirect
 	github.com/smartystreets/goconvey v1.7.2
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
+	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861
 	google.golang.org/grpc v1.45.0
 )
 
